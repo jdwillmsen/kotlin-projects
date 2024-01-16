@@ -1,2 +1,2 @@
 # kotlin-projects
-A repository full of go projects used in learning and testing kotlin
+A repository full of kotlin projects used in learning and testing kotlin
